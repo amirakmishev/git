@@ -32,4 +32,4 @@ function say(name, time){
     else(console.log('добрый день'))
 } 
 say('name', true);
-//say('name', 'утро') 
+//say('name', 'evning') 
